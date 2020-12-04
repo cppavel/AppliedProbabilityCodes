@@ -1,3 +1,4 @@
+#ans = 6/pi*pi
 GCD <- function(a, b) {
   while(b) {
     tmp = b
